@@ -1,0 +1,7 @@
+Editor colors:
+
+- strings: 00cc00
+- comments: 999999
+- num & const: 004a9d
+- keywords: a02a2b
+- functions: 5b369f
