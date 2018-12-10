@@ -1,3 +1,3 @@
 # Frk code editor colors
 
-Color list reminder in case of missing themes on code editors
+Color list reminders in case of missing themes on code editors
